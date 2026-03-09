@@ -7,3 +7,4 @@ slowapi==0.1.9
 selectolax==0.4.6
 pytest==8.4.2
 pytest-asyncio==1.2.0
+websockets>=11.0.3
